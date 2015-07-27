@@ -3,6 +3,7 @@
 Here lies all the code and other things mentioned in my WordCamp Boston 2015 talk.
 
 You can view the slides at https://docs.google.com/presentation/d/1uAIxaxGfWbYgKXU-de-W1rAccdRRBYyJneBc-52PUyE/pub?start=false&loop=false&delayms=3000
+You the view the video at https://www.youtube.com/watch?v=4q51B9u3zBc
 
 I will update this page with the video link once it's up.
 
